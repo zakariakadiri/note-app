@@ -10,7 +10,7 @@
     "note",
     "app"
   ],
-  "author": "Kadiri Zakaria",
+  "author": "Zakaria",
   "license": "ISC",
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
